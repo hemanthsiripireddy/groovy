@@ -1,0 +1,26 @@
+--Tokens in Groovy
+    keywords, identifiers, string literals are called tokens are groovy
+ --comments
+ --semicolons
+    semicolons are optional in groovy
+ --identifiers
+    identifiers can be defined using def keyword
+ --keywords
+ --whitespaces
+ --built-in data types
+ --operators
+    Arithmetic Operators
+    Relational Operators
+    Logical Operators
+    Bitwise Operators
+    assignment Operators
+    Range Operator
+        ex: def rage=0..5
+ --Operator Precedence
+ --Loops
+    while
+    for
+    for-in
+ --Decision making
+--Methods
+    Default Parameters
